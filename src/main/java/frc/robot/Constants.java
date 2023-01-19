@@ -50,7 +50,7 @@ public final class Constants {
 
          /* Swerve Current Limiting */
          public static final int angleContinuousCurrentLimit = 20;
-         public static final int driveContinuousCurrentLimit = 80; /*TODO Change this if needee */
+         public static final int driveContinuousCurrentLimit = 40; /*TODO Change this if needee */
 
         // public static final int angleContinuousCurrentLimit = 25;
         public static final int anglePeakCurrentLimit = 40;
