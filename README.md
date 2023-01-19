@@ -1,8 +1,6 @@
-**Note: In 2023, there was an [issue](https://github.com/Team364/BaseFalconSwerve/issues/8) that prevented this code from working with MK4i's (or any module that used inverted motors). A [fix](https://github.com/Team364/BaseFalconSwerve/issues/8#issuecomment-1384799539) has been found, tested on a real robot, and this issue is believed to have been fixed as of 1/17. If anyone experiences any further issues, please report them. Thanks**
+Codebase is heavily based on FRC Team 364's 2023 code and Team 3512's conversion to NEO motors. Thank you to these teams because I don't know how to code. - Sammie
 
-# BaseFalconSwerve </br>
-
-**Basic Swerve Code for a Swerve Module using Falcon Motors, a CTRE CANCoder, and a CTRE Pigeon Gyro** </br>
+**Basic Swerve Code for a Swerve Module using NEO Motors, a CTRE CANCoder, and a navX 2.0** </br>
 This code was designed with Swerve Drive Specialties MK3, MK4, and MK4i style modules in mind, but should be easily adaptable to other styles of modules.</br>
 
 **Setting Constants**
